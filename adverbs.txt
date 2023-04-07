@@ -137,7 +137,6 @@ knowingly
 knowledgeably
 kookily	
 lazily 
-less 
 lightly 
 likely 
 limply
